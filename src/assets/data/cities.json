@@ -1,0 +1,20 @@
+{
+  "cities": [
+    {
+      "label": "San Diego",
+      "lon": "-117.1628",
+      "lat": "32.7174"
+    },
+    {
+      "label": "Los Angeles",
+      "lon": "-118.2445",
+      "lat": "34.0549"
+    },
+
+    {
+      "label": "San Francisco",
+      "lon": "-122.43",
+      "lat": "37.76"
+    }
+  ]
+}
